@@ -31,7 +31,7 @@ export interface AuthResponse {
   refreshTokenExpiresAtUtc: string;
   user: AuthUser;
 }
-
+// Test
 export interface RegisterResponse {
   message: string;
 }
